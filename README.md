@@ -1,2 +1,2 @@
 # ProjectSAP
-That's a project for Data Science position in SAP
+That's a project for Data Science position at SAP
